@@ -1,5 +1,2 @@
-# PythonExercicios
-
-
- Estou a aprender a linguagem de programação Python
+# Exercicios de Python - Curso em Video
  
