@@ -4,4 +4,4 @@ Este curso promove o aprendizado de Python contribuindo com a resolução de mai
  
 Este curso é leccionado pelo Professor Guanabara
 
-Este curso é muito legal
+Este curso é muito legal!
