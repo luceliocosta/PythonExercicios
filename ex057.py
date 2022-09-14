@@ -8,12 +8,13 @@ while sexo != 'M' and sexo != 'F':
     sexo = str(input('Informe o seu sexo: [M/F] ')).upper()
     if sexo != 'M' and sexo != 'F':
         print('Valor inválido. Digite novamente!')
-print(f'Sexo {sexo} registdo com sucesso!')
+print(f'Sexo {sexo} registado com sucesso!')
 '''
 
 sexo = str(input('Informe o seu sexo: [M/F] ')).strip().upper()[0]
 while sexo not in 'MF':
-    sexo = str(input('Valor inválido. Digite Novamente: [M/F] '))
+    sexo = str(input('Valor inválido. Digite Novamente: [M/F] ').strip().upper()[0])
+print(f'Sexo {sexo} registado com sucesso!  ')
 
 
 
