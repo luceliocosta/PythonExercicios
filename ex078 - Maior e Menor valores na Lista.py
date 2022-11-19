@@ -24,6 +24,8 @@ if conta_menor >= 1:
     for v in range(0, len(valores)):
         if valores[v] == menor:
             print(v,end='...')
+print()
+print('Fim')
 
 
 
