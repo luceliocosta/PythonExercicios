@@ -1,0 +1,17 @@
+Listas:
+
+"Métodos para adicionar elementos na lista"
+
+[1] - listName.append('x') --> Adiciona o elemento x na último posição da lista
+[2] - listName.insert(0, 'x') --> Adiciona o elemento x na posição 0
+
+"Métodos para apagar elementos na lista"
+
+dellistName[3] --> Elimina o elemento na posição 3 da lista
+listName.pop(3) --> Elimina o elemento na posição 3 da lista
+listName.pop() --> Normalmente é utilizado para eliminar o elemento da lista
+listName.remove('valor') --> Elimina o elemento da lista pelo seu valor
+
+
+
+
